@@ -1,5 +1,4 @@
-h1,h2 {
-    font-size: 2.5vw;
+h1,h2{
     color: black;
     background-color: white;
     display: table;
@@ -14,16 +13,11 @@ p{
     display: table;
     padding:5px;
 }
-a{
-    font-size: 1.5vw;
-    font-weight: bold;
-}
+
 
 img{
-   
-    float: center;
-    width:  20%;
-    height: 20%;
-    
+    margin-left: 7.5%;
+    width:  25%;
+    height: 25%;
 }
 
