@@ -1,0 +1,37 @@
+
+.tab{
+    float: center;
+    width:  200px;
+    height: 200px;
+    object-fit: cover;
+}
+a{
+    font-size: 1.5vw;
+    font-weight: bold;
+}
+.imtab{
+    width: 98%%;
+    
+}
+th, td{
+    padding: 1px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.lista{
+     float: center;
+    width:  20%;
+    height: 20%;
+}
+
+h1,h4{
+    font-size: 1.5vw;
+    color: black;
+    background-color: white;
+    display: table;
+}
+.container{
+    width: 98%;
+    overflow-x: auto;
+}
